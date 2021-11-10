@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://deravinm.github.io/csb-bsttj/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://deravinm.github.io/csb-bsttj/static/js/main.d85081cb.chunk.js",
-    "main.js.map": "https://deravinm.github.io/csb-bsttj/static/js/main.d85081cb.chunk.js.map",
+    "main.js": "https://deravinm.github.io/csb-bsttj/static/js/main.b651aea2.chunk.js",
+    "main.js.map": "https://deravinm.github.io/csb-bsttj/static/js/main.b651aea2.chunk.js.map",
     "runtime-main.js": "https://deravinm.github.io/csb-bsttj/static/js/runtime-main.63a64c70.js",
     "runtime-main.js.map": "https://deravinm.github.io/csb-bsttj/static/js/runtime-main.63a64c70.js.map",
     "static/js/2.23032e1c.chunk.js": "https://deravinm.github.io/csb-bsttj/static/js/2.23032e1c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.63a64c70.js",
     "static/js/2.23032e1c.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.d85081cb.chunk.js"
+    "static/js/main.b651aea2.chunk.js"
   ]
 }
